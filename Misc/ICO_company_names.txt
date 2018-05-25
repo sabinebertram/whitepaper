@@ -376,7 +376,7 @@ FirstBlood
 BlockPay pre-ICO
 Pesobit
 Metaverse
-Antshares / NEO
+Antshares NEO
 Jewels
 Iconomi
 Tao
@@ -390,4 +390,3 @@ The DAO
 Mycelium
 Digix DAO
 Lisk
-
