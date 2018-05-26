@@ -4,3 +4,5 @@ duckduckgo_results
 .vscode
 *.egg-info
 *.pyc
+*.eggs
+*.pytest_cache

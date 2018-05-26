@@ -19,7 +19,7 @@ class Preprocess():
 
     def tokenize(self, text):
         tokens = nltk.tokenize.word_tokenize(text)
-        alphanumerical_tokens = [token.lower() for token in tokens if token.isalpha()]
+        alphanumerical_tokens = [token.lower() for token in tokens if token.isalnum()]
         return alphanumerical_tokens
 
     def split_in_sentences(self, text):
