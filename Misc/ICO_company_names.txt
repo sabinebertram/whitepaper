@@ -1,3 +1,187 @@
+EdenChain
+Blue Whale
+MVL Chain
+XYO Network
+Rate3 Network
+Wealth Migrate
+LikeCoin
+CryptoKami
+Tesoro
+Cosmochain
+Hamster Marketplace
+Myriads.IO
+TTC Protocol
+World Wi-Fi
+AIREN
+Hero Node
+JioCoin
+Forty Seven Bank
+Miner One
+The Abyss
+Brickblock
+Dorado
+ZPER
+Conn3x
+Money Rebel
+Invox Finance
+Betrium
+Pulsar
+300cubits
+Bezant
+Assetereum
+Quantum1Net
+TokenSpeed
+VideoCoin
+Flashmoni
+HYCON
+Bob Token
+L Pesa
+TokenLend
+ECKO Coin
+Virtue Poker
+Gron Digital
+Patron
+DAOstack
+Eligma
+Volt
+HOLD
+Grain
+Libra Credit
+Skrumble Network
+MOBILINK COIN
+Orozu
+Merculet
+CEEK
+GoChain
+SHIVOM
+Fund Platform
+Paymon
+Unibright
+Solve.Care
+Blockchain Terminal
+Kerberos ICO
+uKit
+iOlite
+Equitybase
+CloudMoolah
+Shopin
+ProximaX
+Signals
+Saifu
+eKash
+ELPIS
+Transcodium
+ConnectJob
+MediChain
+BoatPilot
+Truegame
+Idea Jump
+AvantGarde Ratings
+Consentium
+SunMoney
+QWASDER
+Robotina
+Thought
+Etherty
+CryptoDime
+IPStock
+DomusCoins
+Invacio
+Native Video Box
+MTK
+Holo
+APPICS
+TrustedHealth
+Berith 
+Concierge.io
+Bitnation
+SmartGold
+Pinnacle Brilliance
+Garuda Energy
+GoHelpFund
+CoinMetro
+Shard
+Lendingblock
+Morpheus Network
+DML
+CoinHealth
+Joy Token
+Knowledge
+Mango Startups
+Stop The Fakes
+Nebula AI
+MOOVER
+BitCar
+Ponder
+Kryll.io
+Thai Club Coin
+Apollo18
+NKN
+Pecunio
+Themis Network
+Ziggurat Token
+Mossland 
+Adenium
+Auctus
+Block Collider
+NeuroChain
+Morpheus Labs
+AIRCOIN
+Bitrace
+VinChain
+Pibble
+RuCoin
+MAVRO
+Docademic
+Zenome
+BETEX
+Fire Lotto
+Midex
+Node
+NTOK
+Frasindo
+P2pay Pre-Sale
+CEDEX
+Wizzle Infinity
+Cool Cousin
+On.Live
+Cubaaz
+TriForce Tokens
+VLB Token
+Sphere Social
+Skychain
+Repux
+A2B Taxi
+BitGuild
+Coinvest
+Eticket4
+Edgecoin
+Thrive
+Thor Token
+Datarius
+Biotron.io
+Chainium
+Vestarin
+Amon
+Seele
+Bitto Exchange
+Nexo
+LiveTree Adept
+Fabric Token
+Ethearnal
+True Reply
+KYC.LEGAL
+4New
+Telegram
+Faceter
+Narrative
+Effect.ai
+TokenStars TEAM
+BricBit
+Selfllery
+Loki
+Tradershub
+Streamity
 Open Platform
 Cappasity
 Shping
@@ -29,14 +213,12 @@ Ocean Protocol
 Sentinel Chain
 SIMDAQ ICO
 Serenity Financial
-Grain Pre-sale
 JET8 
 IP Exchange
 Helbiz
 Zebi
 PolicyPal Network
 Budbo 
-Telegram ICO (Pre-sale 1)
 TomoCoin 
 Rentberry
 Crowd Genie
@@ -87,11 +269,13 @@ Inspeer
 Sharpe Capital
 ArcBlock 
 Republic Protocol
+The Bee Token Pre-sale
 Bluzelle
 The Bee Token
 AidCoin
 MedicalChain
 WePower
+CRYCASH
 CrowdWiz
 iungo
 AMLT
